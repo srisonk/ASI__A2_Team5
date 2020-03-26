@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserCRUD.csproj": {}
+    "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserçCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserCRUD.csproj": {
+    "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserçCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserCRUD.csproj",
-        "projectName": "A2UserCRUD",
-        "projectPath": "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserçCRUD.csproj",
+        "projectName": "A2UserçCRUD",
+        "projectPath": "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\A2UserçCRUD.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\usuario\\Source\\Repos\\ASI__A2_Team5_re\\A2UserCRUD\\obj\\",
         "projectStyle": "PackageReference",
