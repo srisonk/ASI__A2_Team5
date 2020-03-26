@@ -28,6 +28,7 @@ namespace A2UserCRUD
         {
             services.AddControllers();
             services.AddSingleton<IUsersService, UsersService>();
+            services.AddSingleton<IMessagesService, MessagesService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
