@@ -27,6 +27,8 @@ namespace ASI_A2_Team5
         {
             services.AddControllers();
             services.AddSingleton<IMenteesService, MenteesService>();
+            services.AddSingleton<IMessagesService, MessagesService>();
+            services.AddSingleton<IUsersService, UsersService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

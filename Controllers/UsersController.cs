@@ -1,4 +1,4 @@
-﻿using A2UserCRUD.Services;
+﻿using ASI_A2_Team5.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace A2UserCRUD.Controller
+namespace ASI_A2_Team5.Controllers
 {
     [ApiController]
     [Route("[controller]")]

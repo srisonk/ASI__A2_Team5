@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace A2UserCRUD
+namespace ASI_A2_Team5.Models
 {
     public class User
     {

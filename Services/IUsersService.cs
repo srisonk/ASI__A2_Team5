@@ -1,9 +1,10 @@
-﻿using System;
+﻿using ASI_A2_Team5.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace A2UserCRUD.Services
+namespace ASI_A2_Team5
 {
     public interface IUsersService
     {
